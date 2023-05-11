@@ -42,7 +42,7 @@ a, a:visited {
 }
 
 img {
-    max-width: 90vw;
+    max-width: 100%;
 }
 
 .tags {
