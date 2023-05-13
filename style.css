@@ -57,4 +57,6 @@ img {
     padding: 0 0.5em 0 0.5em;
     text-decoration: none;
     white-space: nowrap;
+    word-break: keep-all;
+    hyphens: none;
 }
