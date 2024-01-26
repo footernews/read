@@ -84,6 +84,10 @@ input, textarea {
     margin-bottom: 4px;
 }
 
+textarea {
+    min-height: 2em;
+}
+
 .new_comment {
     border-top: 1px solid lightgray;
 }
