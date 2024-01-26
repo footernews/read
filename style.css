@@ -65,6 +65,12 @@ section {
     margin-top: 20px;
 }
 
+.comment {
+    padding-bottom: 4px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 4px;
+}
+
 .comment p {
     margin: 0;
 }
@@ -73,4 +79,5 @@ input, textarea {
     font-family: 'IBM Plex Serif', 'Times New Roman', 'Times', serif;
     font-size: 16px;
     width: 480px;
+    margin-bottom: 4px;
 }
