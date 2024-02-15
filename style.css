@@ -94,11 +94,11 @@ textarea {
 }
 
 button {
-    background: black;
+    font-family: 'IBM Plex Serif', 'Times New Roman', 'Times', serif;
+    font-size: 14px;
     color: white;
+    background: black;
     border: 1px solid black;
     border-radius: 100em;
     padding: 0 0.5em;
-    font-size: 14px;
-    font-weight: 600;
 }
