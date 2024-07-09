@@ -2,7 +2,6 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
     font-family: 'IBM Plex Serif', 'Times New Roman', 'Times', serif;
     font-size: 1rem;
 }
@@ -89,7 +88,7 @@ input, textarea {
     width: 480px;
     max-width: 100%;
     margin-bottom: 4px;
-    padding: 0 0.5rem;
+    padding: 0.5rem;
 }
 
 textarea {
@@ -108,8 +107,4 @@ button {
     border: 1px solid black;
     border-radius: 100rem;
     padding: 0 0.5rem;
-}
-
-footer {
-    margin-top: 1.5rem;
 }
