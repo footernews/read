@@ -6,7 +6,8 @@
 }
 
 html {
-    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('https://i.imgur.com/CrnbNyC.jpg');
+    /* background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('https://i.imgur.com/CrnbNyC.jpg'); */
+    background: #fff9e7;
     background-repeat: repeat;
     height: 100%;
 }
