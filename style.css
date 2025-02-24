@@ -81,12 +81,12 @@ section {
     margin: 0;
 }
 
-.comment p.time {
+.time {
     font-size: 0.75rem;
     color: grey;
 }
 
-.comment p.user {
+.user {
     font-size: 0.75rem;
     font-weight: bold;
 }
