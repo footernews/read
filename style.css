@@ -96,9 +96,8 @@ textarea {
 }
 
 .new_comment {
-    border-top: 1px solid lightgray;
-    background: white;
-    padding: 0.25rem;
+    border-top: 1px solid black;
+    padding: 0.5rem 1rem;
 }
 
 .new_comment h4 {
