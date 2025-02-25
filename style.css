@@ -72,13 +72,9 @@ section {
 }
 
 .comment {
-    padding-bottom: 4px;
-    border-bottom: 1px solid lightgray;
-    margin-bottom: 4px;
-}
-
-.comment p {
-    margin: 0;
+    background: #ffebc8;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .time {
@@ -106,7 +102,8 @@ textarea {
 }
 
 .new_comment {
-    border: 1px solid black;
+    background: #ffebc8;
+    /* border: 1px solid black; */
     padding: 0.5rem 1rem;
 }
 
